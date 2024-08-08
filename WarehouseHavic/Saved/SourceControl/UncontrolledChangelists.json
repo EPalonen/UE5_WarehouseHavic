@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal_Projects/WarehouseHavic/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Unreal_Projects/WarehouseHavic/Content/Maps/StarterMap1.umap",
+				"D:/Unreal_Projects/WarehouseHavic/Content/Maps/Minimal_Default1.umap",
+				"D:/Unreal_Projects/WarehouseHavic/Content/Maps/Advanced_Lighting1.umap",
+				"D:/Unreal_Projects/WarehouseHavic/Content/Maps/Advanced_Lighting_BuiltData1.uasset",
+				"D:/Unreal_Projects/WarehouseHavic/Content/Maps/Minimal_Default_BuiltData1.uasset",
+				"D:/Unreal_Projects/WarehouseHavic/Content/Maps/StarterMap_BuiltData1.uasset",
+				"D:/Unreal_Projects/WarehouseHavic/Content/BP_Projectile.uasset",
+				"D:/Unreal_Projects/WarehouseHavic/Content/Main.umap",
+				"D:/Unreal_Projects/WarehouseHavic/Content/IndustryPropsPack6/Meshes/BP_Barrel.uasset",
+				"D:/Unreal_Projects/WarehouseHavic/Content/BP_Barrel.uasset",
+				"D:/Unreal_Projects/WarehouseHavic/Content/BP_Rack.uasset",
+				"D:/Unreal_Projects/WarehouseHavic/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset"
+			]
+		}
+	]
+}
